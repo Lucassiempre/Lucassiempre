@@ -12,8 +12,16 @@ Python · JavaScript · HTML/CSS · Arduino · ESP32 · Git/GitHub...
 
 Proyectos destacados
 
-♻️ EcoXP
-🚗 Código Fierro
+♻️ EcoXP — En desarrollo
+
+Proyecto tecnológico orientado a soluciones de reciclaje mediante integración de hardware y software.
+Actualmente en desarrollo.
+
+🚗 Código Fierro — En desarrollo
+
+Herramienta de asistencia para diagnóstico automotriz OBD2.
+Actualmente en desarrollo.
+
 🛠️ Kench al Rescate
 
 ## 📚 Formación y certificaciones
