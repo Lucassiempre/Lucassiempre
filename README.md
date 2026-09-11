@@ -1,6 +1,6 @@
 Hola, soy Lucas 👋
 
-Estudiante técnico en Computación enfocado en desarrollo de software, electrónica e IoT.
+Técnico en Computación enfocado en desarrollo de software, electrónica e IoT.
 
 Sobre mí
 
