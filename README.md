@@ -26,5 +26,6 @@ Proyectos destacados
 
 Contacto
 +54 11 22942979
+
 LinkedIn.
 https://www.linkedin.com/in/lucas-lionel-solohaga-06751033a/
