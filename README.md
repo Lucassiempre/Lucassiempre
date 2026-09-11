@@ -1,16 +1,30 @@
-## Hi there 👋
+Hola, soy Lucas 👋
 
-<!--
-**Lucassiempre/Lucassiempre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante técnico en Computación enfocado en desarrollo de software, electrónica e IoT.
 
-Here are some ideas to get you started:
+Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Una presentación corta de lo que hacés y hacia dónde querés ir.
+
+Tecnologías
+
+Python · JavaScript · HTML/CSS · Arduino · ESP32 · Git/GitHub...
+
+Proyectos destacados
+
+♻️ EcoXP
+🚗 Código Fierro
+🛠️ Kench al Rescate
+
+## 📚 Formación y certificaciones
+
+- 🌐 **Omada Certified Network Administrator (OCNA) – Wireless** — TP-Link Omada
+- 💻 **Desarrollo Web – Nivel 1** — Aprendé Programando · GCBA
+- 🛠️ **Reparación de PC de cero a Experto** — Comunidad Reparando
+- 🔌 **Electrónica de Computadoras** — Comunidad Reparando
+- 👨‍💻 **Yo Puedo Programar** — Junior Achievement Argentina + Microsoft
+
+Contacto
++54 11 22942979
+LinkedIn.
+https://www.linkedin.com/in/lucas-lionel-solohaga-06751033a/
